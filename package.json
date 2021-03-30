@@ -1,0 +1,11 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dingziqi/core.git",
+  "author": "dingziqi <dingziqi@cmi.chinamobile.com>",
+  "license": "MIT",
+  "bin": {
+    "jego-rn": "./bin/run.sh"
+  }
+}
